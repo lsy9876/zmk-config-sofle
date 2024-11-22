@@ -11,8 +11,6 @@
 
 &led_strip { chain-length = <35>; };
 
-&studio_unlock;
-
 &left_encoder { resolution = <2>; };
 
 / {
